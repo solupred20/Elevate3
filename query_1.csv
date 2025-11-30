@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,customer_name
+48,2021-12-29,50,Alice Johnson
+71,2021-12-28,37,David Brown
+27,2021-12-27,2,Alice Jones
+205,2021-12-27,49,Charlie Smith
+107,2021-12-26,49,Charlie Smith
+210,2021-12-21,44,Eve Brown
+112,2021-12-20,49,Charlie Smith
+142,2021-12-20,4,David Garcia
+184,2021-12-20,49,Charlie Smith
+269,2021-12-19,33,Ivy Jones
